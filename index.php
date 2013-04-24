@@ -37,10 +37,13 @@
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 	<header id="header">
-		<h1>
-			3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne
+		<h1 class="gamma">
+			<span class="delta">
+				3<sup>ème</sup> édition de 
+			</span>
+			l'Université d'Automne en Économie Autrichienne
 		</h1>
-		<h6>
+		<h6 class="delta">
 			du 4 au 6 octobre 2013 à Troyes
 		</h6>
 	</header>

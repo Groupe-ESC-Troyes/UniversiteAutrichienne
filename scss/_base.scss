@@ -8,3 +8,7 @@ $default-transition-function: ease-in;
 $default-transition-duration: 0.2s;
 
 @import "qb/all";
+
+p + p{
+	margin-top: 26px;
+}
