@@ -62,7 +62,7 @@
 		</p>
 	</section>
 	
-	<section>
+	<section class>
 		<header>
 			<h2>
 				Programme
@@ -72,7 +72,7 @@
 		<h3>
 			Vendredi 4 Octobre
 		</h3>
-		<table>
+		<table class="programme">
 			<tr>
 				<td>
 					20h — 23h
@@ -83,7 +83,7 @@
 					</p>
 					<p>
 						Intervention du <strong>Professeur Guido Hülsmann</strong> à propos du 
-						centenaire de <em>Théorie de la monnaie et du crédit</em> de Ludwig von Mises.
+						centenaire de <em class="inline">Théorie de la monnaie et du crédit</em> de Ludwig von Mises.
 					</p>
 				</td>
 			</tr>
@@ -92,7 +92,7 @@
 		<h3>
 			Samedi 5 Octobre
 		</h3>
-		<table>
+		<table class="programme">
 			<tr>
 				<td>
 					8h30
@@ -212,7 +212,7 @@
 		<h3>
 			Dimanche 6 Octobre
 		</h3>
-		<table>
+		<table class="programme">
 			<tr>
 				<td>
 					9h
