@@ -10,20 +10,14 @@
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title></title>
+	<title>
+		3ème édition de l'Université d'Automne en Économie Autrichienne
+	</title>
 	<meta name="description" content="">
-	<link rel="shortcut icon" href="/favicon.ico?v=0">
 	
 	<meta name="viewport" content="width=device-width">
 	
-	<link rel="stylesheet" href="/css/style.css?v=0">
-	
-	<!-- Candy -->
-	<link rel="dns-prefetch" href="//ajax.googleapis.com" />
-	
-	<!-- RSS 
-	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml" />
-	  -->
+	<link rel="stylesheet" href="css/style.css?v=0">
 	
 	<!-- Scripts that need to be loaded first -->
 	<!--[if lt IE 9]>
@@ -42,7 +36,7 @@
 </head>
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-	<header>
+	<header id="header">
 		<h1>
 			3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne
 		</h1>
