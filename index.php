@@ -70,23 +70,181 @@
 		</header>
 		
 		<h3>
-			Day one
+			Vendredi 4 Octobre
 		</h3>
 		<table>
 			<tr>
 				<td>
-					6h45
+					20h — 23h
 				</td>
 				<td>
-					Some content
+					<p>
+						Dîner au restaurant l’Illustré, 8 rue Champeaux
+					</p>
+					<p>
+						Intervention du <strong>Professeur Guido Hülsmann</strong> à propos du 
+						centenaire de <em>Théorie de la monnaie et du crédit</em> de Ludwig von Mises.
+					</p>
+				</td>
+			</tr>
+		</table>
+		
+		<h3>
+			Samedi 5 Octobre
+		</h3>
+		<table>
+			<tr>
+				<td>
+					8h30
+				</td>
+				<td>
+					<p>
+						Accueil des étudiants à l’ESC Troyes, 217 rue Pierre Brossolette
+					</p>
 				</td>
 			</tr>
 			<tr>
 				<td>
-					6h45
+					9h — 10h
 				</td>
 				<td>
-					Some more content
+					<em>La spécificité de l’Ecole Autrichienne</em>
+					<strong>Professeur Marian Eabrasu</strong> (Groupe ESC Troyes en Champagne)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					9h — 10h
+				</td>
+				<td>
+					<em>Les régimes monétaires et leur évaluation par les Autrichiens</em>
+					<strong>Professeur Renaud Fillieule</strong> (Université Lille 1)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					10h30 — 11h30
+				</td>
+				<td>
+					<em>Qu’est-ce que la monnaie ?</em>
+					<strong>Professeur Marian Eabrasu</strong> (Groupe ESC Troyes en Champagne)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					10h30 — 11h30
+				</td>
+				<td>
+					<em>Retour sur les causes de la crise et les politiques mises en œuvre</em>
+					<strong>Professeur François Facchini</strong> (Université Paris 11)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					11h45 — 12h45
+				</td>
+				<td>
+					<em>Qu’est-ce qu’une banque ?</em>
+					<strong>Professeur Nathalie Janson</strong> (Rouen Business School)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					11h45 — 12h45
+				</td>
+				<td>
+					<em>Réforme monétaire : par où commencer ?</em>
+					<strong>Dr. Nikolay Gertchev</strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					13h — 14h
+				</td>
+				<td>
+					<p>
+						Déjeuner à l'ESC Troyes
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					14h — 15h
+				</td>
+				<td>
+					<em>Pourquoi y a-t-il des cycles économiques ?</em>
+					<strong>Dr. Nikolay Gertchev</strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières) 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					14h — 15h
+				</td>
+				<td>
+					<em>Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?</em>
+					<strong>Professeur Gabriel Giménez-Roche</strong> (Groupe ESC Troyes en Champagne)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					15h30 — 17h
+				</td>
+				<td>
+					<em>Epargne, déflation et croissance </em>
+					<strong>Professeur Guido Hülsmann</strong> (Université d’Angers)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					19h — 20h
+				</td>
+				<td>
+					<p>
+						Dîner et soirée au restaurant-bar Rive-Gauche, 59 rue de la cité
+					</p>
+					<p>
+						Remise du prix du concours du meilleur article sur le thème « les métaux précieux »
+					</p>
+				</td>
+			</tr>
+		</table>
+		
+		<h3>
+			Dimanche 6 Octobre
+		</h3>
+		<table>
+			<tr>
+				<td>
+					9h
+				</td>
+				<td>
+					Accueil à l’ESC Troyes
+				</td>
+			</tr>
+			<tr>
+				<td>
+					9h15 — 10h15
+				</td>
+				<td>
+					<em>Les bulles spéculatives dans les cycles économiques</em>
+					<strong>Professeur Gabriel Giménez-Roche</strong> (Groupe ESC Troyes en Champagne)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					10h45 — 12h15
+				</td>
+				<td>
+					<em>Réforme bancaire en Chine : État des lieux et perspectives</em>
+					<strong>Henrique Schneider</strong>, économiste en chef de l’Union suisse des arts et métie
+				</td>
+			</tr>
+			<tr>
+				<td>
+					12h30
+				</td>
+				<td>
+					Déjeuner à l’ESC Troyes et départ
 				</td>
 			</tr>
 		</table>
