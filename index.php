@@ -50,6 +50,17 @@
 	</header>
 	
 	<section>
+		<div class="organisateurs">
+			<a href="http://get-formation.fr" class="organisateur">
+				<img src="img/groupe_esc_troyes.png" alt="Logo du Groupe ESC Troyes" />
+			</a>
+			<a href="http://www.institutmolinari.org/" class="organisateur">
+				<img src="img/molinari.png" alt="Logo de l'institut Molinari" />
+			</a>
+			<a href="http://www.24hgold.com/francais/home.aspx" class="organisateur gold">
+				<img src="img/24hgold.png" alt="Logo de 24hGold" />
+			</a>
+		</div>
 		<header>
 			<h2>
 				Présentation
@@ -59,7 +70,7 @@
 			Pour la 3ème édition de l’université d’automne en économie autrichienne et compte tenu de la gravité de la crise financière et monétaire que nous vivons, les questions monétaires seront au cœur des débats et plus particulièrement la question des solutions et des réformes à mener seront privilégiées. 
 		</p>
 		<p>
-			Les organisateurs de l’évènement (voir programme), s’adressent à la fois aux étudiants et professionnels désireux de découvrir une série de raisonnements cohérents pour expliquer la complexité des enjeux économiques, et à ceux qui en connaissant déjà certains aspects, voudraient approfondir leurs connaissances et leur compréhension de la crise actuelle.
+			Les organisateurs de l’évènement s’adressent à la fois aux étudiants et professionnels désireux de découvrir une série de raisonnements cohérents pour expliquer la complexité des enjeux économiques, et à ceux qui en connaissant déjà certains aspects, voudraient approfondir leurs connaissances et leur compréhension de la crise actuelle.
 		</p>
 	</section>
 	

@@ -48,6 +48,33 @@ section h3{
 	@extend .delta;
 }
 
+div.organisateurs{
+	position: relative;
+	left: -230px;
+	margin-top: -395px;
+	top: 395px;
+}
+div.organisateurs .organisateur{
+	display: block;
+	padding-top: 30px;
+	margin-bottom: 10px;
+	width: 125px;
+	height: 125px;
+	background: #e0e0e0;
+	border-radius: 50%;
+	text-align: center;
+	@include transition();
+	opacity: .6;
+	
+	&:hover{
+		opacity: 1;
+	}
+}
+
+div.organisateurs .gold{
+	padding-top: 10px;
+}
+
 table.programme{
 	margin-bottom: 30px;
 }
