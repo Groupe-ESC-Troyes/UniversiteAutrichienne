@@ -36,7 +36,7 @@
 </head>
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-	<div class="cover"></div>
+	<div class="cover colloque"></div>
 	<header id="header">
 		<h1 class="gamma">
 			<span class="delta">
@@ -62,6 +62,8 @@
 			Les organisateurs de l’évènement (voir programme), s’adressent à la fois aux étudiants et professionnels désireux de découvrir une série de raisonnements cohérents pour expliquer la complexité des enjeux économiques, et à ceux qui en connaissant déjà certains aspects, voudraient approfondir leurs connaissances et leur compréhension de la crise actuelle.
 		</p>
 	</section>
+	
+	<div class="cover campus"></div>
 	
 	<section class>
 		<header>

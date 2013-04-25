@@ -12,3 +12,11 @@ $default-transition-duration: 0.2s;
 p + p{
 	margin-top: 26px;
 }
+
+a{
+	color: #4479db;
+	
+	&:visited{
+		color: #1052bf;
+	}
+}
