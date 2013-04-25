@@ -36,6 +36,7 @@
 </head>
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+	<div class="cover"></div>
 	<header id="header">
 		<h1 class="gamma">
 			<span class="delta">
@@ -258,8 +259,17 @@
 		</header>
 		
 		<p>
-			Some content
+			L’Institut économique Molinari et le site Internet 24hgold ont le souci d’encourager une nouvelle génération à prendre la relève dans la production et la diffusion d’idées favorables à la prospérité des individus. Plus que jamais, le défi reste de réussir à communiquer des idées et concepts parfois complexes dans un langage et un style accessible aux citoyens raisonnablement instruits.
 		</p>
+		<p>
+			Pour le concours du meilleur article, nous avons décidé de laisser libre cours à la créativité des auteurs sur une question d’actualité :
+		</p>
+		<div class="thème">
+			Le courage de la réforme
+		</div>
+		<div class="recompense">
+			1<sup>er</sup> prix : 100 francs or offert par <a href="http://www.24hgold.com/francais/home.aspx">24hGold</a>
+		</div>
 	</section>
 	
 	<section>
