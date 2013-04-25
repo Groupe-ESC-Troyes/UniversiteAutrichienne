@@ -20,3 +20,7 @@ a{
 		color: #1052bf;
 	}
 }
+
+.amp {
+	@extend %ampersand-placeholder;
+}
