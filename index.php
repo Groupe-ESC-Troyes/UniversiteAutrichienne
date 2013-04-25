@@ -36,6 +36,37 @@
 </head>
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+	
+	<nav id="mainnav">
+		<ul>
+			<li>
+				<a href="#">
+					Présentation
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					Programme
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					Concours
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					Inscription
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					Intervenants
+				</a>
+			</li>
+		</ul>
+	</nav>
+	
 	<div class="cover colloque"></div>
 	<header id="header">
 		<h1 class="gamma">

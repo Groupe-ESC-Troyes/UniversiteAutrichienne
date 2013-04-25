@@ -4,6 +4,39 @@ body{
 	background: #f5f5f5;
 }
 
+#mainnav{
+	position: fixed;
+	top: 20px;
+	right: 40px;
+	opacity: .7;
+	@include transition();
+
+	&:hover{
+		opacity: 1;
+	}
+}
+#mainnav ul{
+	list-style: none;
+}
+#mainnav li{
+	display: inline;
+}
+#mainnav a{
+	padding: 6px 8px;
+	background: #333;
+	color: #fff;
+	text-decoration: none;
+	font-weight: normal;
+	font-family: Helvetica Neue, helvetica, arial, sans-serif;
+	text-transform :uppercase;
+	@include rem-sizing('font-size', 11);
+	@include transition();
+
+	&:hover{
+		background: lighten(#333, 15);
+	}
+}
+
 div.cover{
 	@include background-size(cover);
 	background-position: center;
