@@ -253,7 +253,7 @@
 		</table>
 	</section>
 	
-	<section>
+	<section class="concours">
 		<header>
 			<h2>
 				Concours du meilleur article
@@ -272,6 +272,37 @@
 		<div class="recompense">
 			1<sup>er</sup> prix : 100 francs or offert par <a href="http://www.24hgold.com/francais/home.aspx">24hGold</a>
 		</div>
+		
+		<h3>
+			Format
+		</h3>
+		<p>
+			L’article doit comprendre  entre 3500 et 5000 signes espaces compris. La forme du billet est laissée au choix de chaque participant et le sujet peut être traité dans plusieurs perspectives : économique, littéraire, artistique, poétique, historique, etc.  Pour cette édition, nous avons décidé de récompenser les billets les plus originaux et créatifs.
+		</p>
+		
+		<h3>
+			Calendrier
+		</h3>
+		<div>
+			Ouverture du concours : 1<sup>er</sup> mai 2013<br />
+			Date limite d'envoi de l'article : 1<sup>er</sup> septembre 2013<br />
+			Remise des prix : 5 octobre 2013
+		</div>
+		
+		<h3>
+			Jury du concours
+		</h3>
+		<ul class="jury">
+			<li>
+				Eric Lemaire, président fondateur du site internet 24hGold
+			</li>
+			<li>
+				Cécile Philippe, Directice, Institut économique Molinari
+			</li>
+			<li>
+				Marian Eabrasu, Professeur, Groupe ESC Troyes en Champagne
+			</li>
+		</ul>
 	</section>
 	
 	<section>
