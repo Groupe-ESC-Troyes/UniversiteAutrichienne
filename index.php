@@ -367,51 +367,61 @@
 		</header>
 		<ul class="intervenants">
 			<li id="eabrasu">
+				<img src="img/eabrasu.jpg" alt="Portrait de Marian Eabrasu" class="photo" />
 				<p>
 					<strong>Marian Eabrasu</strong> est professeur d’économie et d’éthique au Groupe ESC-Troyes en Champagne et membre du laboratoire de recherche GRANEM. Il a été chercheur à l’International Centre for Economic Research (Turin, Italie) et à l’institut Ludwig von Mises (Auburn, États Unis). Il est l’auteur de nombreux articles publiés dans des revues à comité de lecture. Son dernier article « Rothbard and Hoppe’s justifications of libertarianism : A critique » est paru dans la revue <em>Politics, Philosophy <span class="amp">&</span> Economics</em> en 2012.
 				</p>
 			</li>
 			<li id="facchini">
+				<img src="img/facchini.jpg" alt="Portrait de François Facchini" class="photo" />
 				<p>
 					<strong>François Facchini</strong> est Professeur des universités. Il enseigne les sciences économiques à l’université Paris XI et est l’auteur de nombreux articles.  Récemment, il a publié en collaboration avec Mickael Melki, « Efficient government size: France in the 20th century », dans l'<em>European Journal of Political Economy</em> (2013). 
 				</p>
 			</li>
 			<li id="fillieule">
+				<img src="img/fillieule.jpg" alt="Portrait de Renaud Fillieule" class="photo" />
 				<p>
 					<strong>Renaud Fillieule</strong> est professeur de sociologie à l'Université de Lille 1. Ses travaux actuels portent sur l'école autrichienne d'économie, dans les domaines de la macroéconomie et de la théorie des prix. Son dernier livre s'intitule <em>L'école autrichienne d'économie. Une autre hétérodoxie</em> (Presses Universitaires du Septentrion, 2010).
 				</p>
 			</li>
 			<li id="gertchev">
+				<img src="img/gertchev.jpg" alt="Portrait de Nikolay Gertchev" class="photo" />
 				<p>
 					<strong>Nikolay Gertchev</strong> est docteur d'économie de l'Université de Paris II Panthéon-Assas. Depuis 2007, il travaille à la Commission Européenne sur les problèmes de stabilité financière dans les systèmes bancaires nationaux (Lettonie, Grèce, Irlande). Ses recherches se concentrent sur l'analyse des institutions monétaires (caisses d'émission, banques à réserve fractionnaire, processus de titrisation, etc.). Il a notamment publié l'article <em>Securitization and Fractional-Reserve Banking</em> sur ce dernier sujet.
 				</p>
 			</li>
 			<li id="gimenez">
+				<img src="img/gimenez.jpg" alt="Portrait de Gabriel A. Gimenez-Roche" class="photo" />
 				<p>
 					<strong>Gabriel A. Gimenez-Roche</strong> est professeur et responsable du département économie du Groupe ESC Troyes en Champagne et maître de conférences à l’Institut d’Études Politiques de Paris. Il est l’auteur de « Entrepreneurial Profit-Seeking : Socially Situating Opportunity Exploitation » paru dans <em>Industry <span class="amp">&</span> Innovation</em>, volume 18, numéro 8 de 2011.	
 				</p>
 			</li>
 			<li id="hulsmann">
+				<img src="img/hulsmann.jpg" alt="Portrait de Guido Hülsmann" class="photo" />
 				<p>
 					<strong>Guido Hülsmann</strong> est professeur de sciences économiques à l'Université d'Angers et Directeur du séminaire d'économie autrichienne à l'ESCP-Europe. Il détient un doctorat de l'Université technique de Berlin et une Habilitation à diriger des recherches de l'Université Paris-Dauphine. Son dernier ouvrage est <em>Krise der Inflationskultur</em> (Munich : Finanzbuch-Verlag, 2013).
 				</p>
 			</li>
 			<li id="janson">
+				<img src="img/janson.jpg" alt="Portrait de Nathalie Janson" class="photo" />
 				<p>
 					<strong>Nathalie Janson</strong> est économiste spécialiste de la théorie de la banque libre et de la régulation bancaire. Elle enseigne depuis 10 ans au sein du groupe Rouen Business School ainsi qu’à Sciences-Po. Elle intervient régulièrement dans les médias et sur le net  et publie des articles dans des revues scientifiques sur ces mêmes questions. 
 				</p>
 			</li>
 			<li>
+				<img src="img/lemaire.jpg" alt="Portrait de Eric Lemaire" class="photo" />
 				<p>
 					<strong>Eric Lemaire</strong> est entrepreneur dans les domaines de l’environnement et de la communication.
 				</p>
 			</li>
 			<li>
+				<img src="img/philippe.jpg" alt="Portrait de Cécile Philippe" class="photo" />
 				<p>
 					<strong>Cécile Philippe</strong> est docteur en économie (Université Paris Dauphine, 2003). Elle est la fondatrice et directrice de l’Institut économique Molinari. Elle a écrit <em>C’est trop tard pour la terre</em> (Lattès, 2007).
 				</p>
 			</li>
 			<li id="schneider">
+				<img src="img/schneider.jpg" alt="Portrait de Henrique Schneider" class="photo" />
 				<p>
 					<strong>Henrique Schneider</strong> est économiste en chef de l’Union suisse des arts et métiers. Il est membre de la Commission de concurrence suisse et du conseil d’experts au sein de la Banque centrale chinoise. Il a étudié l’économie et la philosophie à St. Gall (Suisse), Baltimore (États-Unis) et Pékin (Chine) et a récemment publié « China: an Austrian view on the middle income trap » et « State-capitalism and Globalization – a challenge to whom?” au <em>Journal of Chinese Economic and Business Studies</em>.
 				</p>

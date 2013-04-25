@@ -169,3 +169,14 @@ ul.intervenants{
 ul.intervenants li{
 	margin-bottom: 30px;
 }
+ul.intervenants .photo{
+	display: block;
+	position: relative;
+	left: -120px;
+	top: 75px;
+	margin-top: -75px;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+	background: red;
+}
