@@ -145,10 +145,10 @@ div.thème{
 	color: #fff;
 	
 	&:before{
-		content: '\201c';
+		content: '“';
 	}
 	&:after{
-		content: '\201d';
+		content: '”';
 	}
 }
 div.recompense{

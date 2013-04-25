@@ -40,27 +40,27 @@
 	<nav id="mainnav">
 		<ul>
 			<li>
-				<a href="#">
+				<a href="#presentation">
 					Présentation
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#programme">
 					Programme
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#concours">
 					Concours
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#inscription">
 					Inscription
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#intervenants">
 					Intervenants
 				</a>
 			</li>
@@ -80,7 +80,7 @@
 		</h6>
 	</header>
 	
-	<section>
+	<section id="presentation">
 		<div class="organisateurs">
 			<a href="http://get-formation.fr" class="organisateur">
 				<img src="img/groupe_esc_troyes.png" alt="Logo du Groupe ESC Troyes" />
@@ -107,7 +107,7 @@
 	
 	<div class="cover campus"></div>
 	
-	<section class>
+	<section id="programme">
 		<header>
 			<h2>
 				Programme
@@ -127,7 +127,7 @@
 						Dîner au restaurant l’Illustré, 8 rue Champeaux
 					</p>
 					<p>
-						Intervention du <strong>Professeur Guido Hülsmann</strong> à propos du 
+						Intervention du <strong><a href="#hulsmann">Professeur Guido Hülsmann</a></strong> à propos du 
 						centenaire de <em class="inline">Théorie de la monnaie et du crédit</em> de Ludwig von Mises.
 					</p>
 				</td>
@@ -154,7 +154,7 @@
 				</td>
 				<td>
 					<em>La spécificité de l’Ecole Autrichienne</em>
-					<strong>Professeur Marian Eabrasu</strong> (Groupe ESC Troyes en Champagne)
+					<strong><a href="#eabrasu">Professeur Marian Eabrasu</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
 			<tr>
@@ -163,7 +163,7 @@
 				</td>
 				<td>
 					<em>Les régimes monétaires et leur évaluation par les Autrichiens</em>
-					<strong>Professeur Renaud Fillieule</strong> (Université Lille 1)
+					<strong><a href="#fillieule">Professeur Renaud Fillieule</a></strong> (Université Lille 1)
 				</td>
 			</tr>
 			<tr>
@@ -172,7 +172,7 @@
 				</td>
 				<td>
 					<em>Qu’est-ce que la monnaie ?</em>
-					<strong>Professeur Marian Eabrasu</strong> (Groupe ESC Troyes en Champagne)
+					<strong><a href="#eabrasu">Professeur Marian Eabrasu</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
 			<tr>
@@ -181,7 +181,7 @@
 				</td>
 				<td>
 					<em>Retour sur les causes de la crise et les politiques mises en œuvre</em>
-					<strong>Professeur François Facchini</strong> (Université Paris 11)
+					<strong><a href="#facchini">Professeur François Facchini</a></strong> (Université Paris 11)
 				</td>
 			</tr>
 			<tr>
@@ -190,7 +190,7 @@
 				</td>
 				<td>
 					<em>Qu’est-ce qu’une banque ?</em>
-					<strong>Professeur Nathalie Janson</strong> (Rouen Business School)
+					<strong><a href="#janson">Professeur Nathalie Janson</a></strong> (Rouen Business School)
 				</td>
 			</tr>
 			<tr>
@@ -199,7 +199,7 @@
 				</td>
 				<td>
 					<em>Réforme monétaire : par où commencer ?</em>
-					<strong>Dr. Nikolay Gertchev</strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières)
+					<strong><a href="#gertchev">Dr. Nikolay Gertchev</a></strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières)
 				</td>
 			</tr>
 			<tr>
@@ -218,7 +218,7 @@
 				</td>
 				<td>
 					<em>Pourquoi y a-t-il des cycles économiques ?</em>
-					<strong>Dr. Nikolay Gertchev</strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières) 
+					<strong><a href="#gertchev">Dr. Nikolay Gertchev</a></strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières) 
 				</td>
 			</tr>
 			<tr>
@@ -227,7 +227,7 @@
 				</td>
 				<td>
 					<em>Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?</em>
-					<strong>Professeur Gabriel Giménez-Roche</strong> (Groupe ESC Troyes en Champagne)
+					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
 			<tr>
@@ -236,7 +236,7 @@
 				</td>
 				<td>
 					<em>Epargne, déflation et croissance </em>
-					<strong>Professeur Guido Hülsmann</strong> (Université d’Angers)
+					<strong><a href="#hulsmann">Professeur Guido Hülsmann</a></strong> (Université d’Angers)
 				</td>
 			</tr>
 			<tr>
@@ -272,7 +272,7 @@
 				</td>
 				<td>
 					<em>Les bulles spéculatives dans les cycles économiques</em>
-					<strong>Professeur Gabriel Giménez-Roche</strong> (Groupe ESC Troyes en Champagne)
+					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
 			<tr>
@@ -281,7 +281,7 @@
 				</td>
 				<td>
 					<em>Réforme bancaire en Chine : État des lieux et perspectives</em>
-					<strong>Henrique Schneider</strong>, économiste en chef de l’Union suisse des arts et métie
+					<strong><a href="schneider">Henrique Schneider</a></strong>, économiste en chef de l’Union suisse des arts et métie
 				</td>
 			</tr>
 			<tr>
@@ -295,7 +295,7 @@
 		</table>
 	</section>
 	
-	<section class="concours">
+	<section id="concours" class="concours">
 		<header>
 			<h2>
 				Concours du meilleur article
@@ -347,7 +347,7 @@
 		</ul>
 	</section>
 	
-	<section>
+	<section id="inscription">
 		<header>
 			<h2>
 				Inscription
@@ -359,44 +359,44 @@
 		</p>
 	</section>
 	
-	<section>
+	<section id="intervenants">
 		<header>
 			<h2>
 				Intervenants
 			</h2>
 		</header>
 		<ul class="intervenants">
-			<li>
+			<li id="eabrasu">
 				<p>
 					<strong>Marian Eabrasu</strong> est professeur d’économie et d’éthique au Groupe ESC-Troyes en Champagne et membre du laboratoire de recherche GRANEM. Il a été chercheur à l’International Centre for Economic Research (Turin, Italie) et à l’institut Ludwig von Mises (Auburn, États Unis). Il est l’auteur de nombreux articles publiés dans des revues à comité de lecture. Son dernier article « Rothbard and Hoppe’s justifications of libertarianism : A critique » est paru dans la revue <em>Politics, Philosophy <span class="amp">&</span> Economics</em> en 2012.
 				</p>
 			</li>
-			<li>
+			<li id="facchini">
 				<p>
-					<strong>François Facchini</strong> est Professeur des universités. Il enseigne les sciences économiques à l’université Paris 11 et est l’auteur de nombreux articles.  Récemment, il a publié en collaboration avec Mickael Melki, « Efficient government size: France in the 20th century », dans l'<em>European Journal of Political Economy</em> (2013). 
+					<strong>François Facchini</strong> est Professeur des universités. Il enseigne les sciences économiques à l’université Paris XI et est l’auteur de nombreux articles.  Récemment, il a publié en collaboration avec Mickael Melki, « Efficient government size: France in the 20th century », dans l'<em>European Journal of Political Economy</em> (2013). 
 				</p>
 			</li>
-			<li>
+			<li id="fillieule">
 				<p>
 					<strong>Renaud Fillieule</strong> est professeur de sociologie à l'Université de Lille 1. Ses travaux actuels portent sur l'école autrichienne d'économie, dans les domaines de la macroéconomie et de la théorie des prix. Son dernier livre s'intitule <em>L'école autrichienne d'économie. Une autre hétérodoxie</em> (Presses Universitaires du Septentrion, 2010).
 				</p>
 			</li>
-			<li>
+			<li id="gertchev">
 				<p>
 					<strong>Nikolay Gertchev</strong> est docteur d'économie de l'Université de Paris II Panthéon-Assas. Depuis 2007, il travaille à la Commission Européenne sur les problèmes de stabilité financière dans les systèmes bancaires nationaux (Lettonie, Grèce, Irlande). Ses recherches se concentrent sur l'analyse des institutions monétaires (caisses d'émission, banques à réserve fractionnaire, processus de titrisation, etc.). Il a notamment publié l'article <em>Securitization and Fractional-Reserve Banking</em> sur ce dernier sujet.
 				</p>
 			</li>
-			<li>
+			<li id="gimenez">
 				<p>
 					<strong>Gabriel A. Gimenez-Roche</strong> est professeur et responsable du département économie du Groupe ESC Troyes en Champagne et maître de conférences à l’Institut d’Études Politiques de Paris. Il est l’auteur de « Entrepreneurial Profit-Seeking : Socially Situating Opportunity Exploitation » paru dans <em>Industry <span class="amp">&</span> Innovation</em>, volume 18, numéro 8 de 2011.	
 				</p>
 			</li>
-			<li>
+			<li id="hulsmann">
 				<p>
 					<strong>Guido Hülsmann</strong> est professeur de sciences économiques à l'Université d'Angers et Directeur du séminaire d'économie autrichienne à l'ESCP-Europe. Il détient un doctorat de l'Université technique de Berlin et une Habilitation à diriger des recherches de l'Université Paris-Dauphine. Son dernier ouvrage est <em>Krise der Inflationskultur</em> (Munich : Finanzbuch-Verlag, 2013).
 				</p>
 			</li>
-			<li>
+			<li id="janson">
 				<p>
 					<strong>Nathalie Janson</strong> est économiste spécialiste de la théorie de la banque libre et de la régulation bancaire. Elle enseigne depuis 10 ans au sein du groupe Rouen Business School ainsi qu’à Sciences-Po. Elle intervient régulièrement dans les médias et sur le net  et publie des articles dans des revues scientifiques sur ces mêmes questions. 
 				</p>
@@ -411,7 +411,7 @@
 					<strong>Cécile Philippe</strong> est docteur en économie (Université Paris Dauphine, 2003). Elle est la fondatrice et directrice de l’Institut économique Molinari. Elle a écrit <em>C’est trop tard pour la terre</em> (Lattès, 2007).
 				</p>
 			</li>
-			<li>
+			<li id="schneider">
 				<p>
 					<strong>Henrique Schneider</strong> est économiste en chef de l’Union suisse des arts et métiers. Il est membre de la Commission de concurrence suisse et du conseil d’experts au sein de la Banque centrale chinoise. Il a étudié l’économie et la philosophie à St. Gall (Suisse), Baltimore (États-Unis) et Pékin (Chine) et a récemment publié « China: an Austrian view on the middle income trap » et « State-capitalism and Globalization – a challenge to whom?” au <em>Journal of Chinese Economic and Business Studies</em>.
 				</p>
