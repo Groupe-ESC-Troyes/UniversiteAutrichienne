@@ -104,9 +104,12 @@ table.programme em{
 
 div.thème{
 	margin-top: 20px;
+	padding: 8px 0;
 	text-align: center;
 	font-family: $heading-font;
 	@extend .delta;
+	background: #333;
+	color: #fff;
 	
 	&:before{
 		content: '\201c';
