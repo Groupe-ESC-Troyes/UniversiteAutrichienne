@@ -177,6 +177,7 @@ ul.jury{
 #form input[type="email"]{
 	display: block;
 	padding: 2px 4px;
+	width: 350px;
 }
 #form input[type="submit"]{
 	font-family: Helvetica Neue, Helveitca, Arial, sans-serif;
@@ -190,6 +191,11 @@ ul.jury{
 	&:hover{
 		@include background(linear-gradient(top, $alternate-color, darken($alternate-color, 5)));
 		color: #fff;
+	}
+	&[disabled]{
+		@include background(linear-gradient(top, #dadada, #cccccc));
+		color: #626262;
+		cursor: no-drop;
 	}
 }
 
