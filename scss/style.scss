@@ -20,10 +20,15 @@ body{
 }
 #mainnav li{
 	display: inline;
+	border-right: 1px solid lighten(#3a77dc, 10);
+
+	&:last-child{
+		border-right: none;
+	}
 }
 #mainnav a{
 	padding: 6px 8px;
-	background: #333;
+	background: $alternate-color;
 	color: #fff;
 	text-decoration: none;
 	font-weight: normal;
@@ -33,7 +38,7 @@ body{
 	@include transition();
 
 	&:hover{
-		background: lighten(#333, 15);
+		background: darken($alternate-color, 8);
 	}
 }
 
@@ -176,14 +181,14 @@ ul.jury{
 #form input[type="submit"]{
 	font-family: Helvetica Neue, Helveitca, Arial, sans-serif;
 	border: none;
-	@include background(linear-gradient(top, lighten(#3a77dc, 5), #3a77dc));
+	@include background(linear-gradient(top, lighten($alternate-color, 5), $alternate-color));
 	color: #eee;
 	padding: 8px 16px;
 	@include rem-sizing('font-size', 12);
 	@include transition();
 
 	&:hover{
-		@include background(linear-gradient(top, #3a77dc, darken(#3a77dc, 5)));
+		@include background(linear-gradient(top, $alternate-color, darken($alternate-color, 5)));
 		color: #fff;
 	}
 }

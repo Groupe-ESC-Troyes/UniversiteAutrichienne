@@ -4,6 +4,8 @@ $body-copy-font: Vollkorn, Garamond, Helvetica, Arial;
 $heading-font: "Fertigo Pro", Garamond, Georgia, Trebuchet, Arial;
 $font-base: 16;
 
+$alternate-color: #3a77dc;
+
 $default-transition-function: ease-in;
 $default-transition-duration: 0.2s;
 
@@ -14,10 +16,10 @@ p + p{
 }
 
 a{
-	color: #4479db;
+	color: $alternate-color;
 	
 	&:visited{
-		color: #1052bf;
+		color: darken($alternate-color, 10);
 	}
 }
 
