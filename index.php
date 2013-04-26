@@ -184,7 +184,7 @@
 				</td>
 				<td>
 					<em>Retour sur les causes de la crise et les politiques mises en œuvre</em>
-					<strong><a href="#facchini">Professeur François Facchini</a></strong> (Université Paris 11)
+					<strong><a href="#facchini">Professeur François Facchini</a></strong> (Université Paris XI)
 				</td>
 			</tr>
 			<tr>
