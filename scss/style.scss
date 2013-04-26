@@ -53,9 +53,12 @@ body{
 	&:hover{
 		background: darken($alternate-color, 8);
 	}
-@include width-below(600px){
+	@include width-below(600px){
 		display: block;
 	}
+}
+#mainnav li.active a{
+	background: darken($alternate-color, 8);
 }
 
 div.cover{
