@@ -10,6 +10,8 @@
 	<meta charset="utf-8">
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<script type="text/javascript" src="//use.typekit.net/rxy3bso.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 	<title>
 		3ème édition de l'Université d'Automne en Économie Autrichienne

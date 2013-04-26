@@ -1,7 +1,7 @@
 @import "compass";
 
-$body-copy-font: Vollkorn, Garamond, Helvetica, Arial;
-$heading-font: "Fertigo Pro", Garamond, Georgia, Trebuchet, Arial;
+$body-copy-font: "vollkorn", Garamond, Helvetica, Arial;
+$heading-font: "fertigo-pro", Garamond, Georgia, Trebuchet, Arial;
 $font-base: 16;
 
 $alternate-color: #3a77dc;
@@ -10,6 +10,10 @@ $default-transition-function: ease-in;
 $default-transition-duration: 0.2s;
 
 @import "qb/all";
+
+h1,h2,h3,h4,h5,h6{
+	font-style: italic;
+}
 
 p + p{
 	margin-top: 26px;
