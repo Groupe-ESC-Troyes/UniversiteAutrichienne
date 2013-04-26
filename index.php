@@ -357,6 +357,45 @@
 		<p>
 			Formulaire
 		</p>
+		<form id="form">
+			<label>
+				Votre nom :
+				<input type="text" name="nom" />
+			</label>
+			<label>
+				Votre prénom :
+				<input type="text" name="prenom" />
+			</label>
+			<label>
+				Nom de votre entreprise ou établissement :
+				<input type="text" name="entreprise" />
+			</label>
+			<label>
+				Fonction ou niveau d'études :
+				<input type="text" name="fonction" />
+			</label>
+			<label>
+				Votre adresse :
+				<input type="text" name="adresse" />
+			</label>
+			<label>
+				Code postal :
+				<input type="text" name="cp" />
+			</label>
+			<label>
+				Ville :
+				<input type="text" name="ville" />
+			</label>
+			<label>
+				Numéro de téléphone mobile :
+				<input type="text" name="mobile" />
+			</label>
+			<label>
+				Adresse email :
+				<input type="email" name="email" />
+			</label>
+			<input type="submit" value="Enregistrer" />
+		</form>
 	</section>
 	
 	<section id="intervenants">

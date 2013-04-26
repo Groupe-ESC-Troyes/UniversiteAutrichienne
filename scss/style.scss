@@ -66,7 +66,7 @@ section{
 }
 #header h1 span{
 	display: block;
-	margin-bottom: 0;
+	margin-bottom: 5px;
 }
 
 section{
@@ -161,6 +161,31 @@ section.concours h3{
 }
 ul.jury{
 	list-style: outside;
+}
+
+#form label{
+	display: block;
+	margin: 24px 0;
+	line-height: 1.1;
+}
+#form input[type="text"],
+#form input[type="email"]{
+	display: block;
+	padding: 2px 4px;
+}
+#form input[type="submit"]{
+	font-family: Helvetica Neue, Helveitca, Arial, sans-serif;
+	border: none;
+	@include background(linear-gradient(top, lighten(#3a77dc, 5), #3a77dc));
+	color: #eee;
+	padding: 8px 16px;
+	@include rem-sizing('font-size', 12);
+	@include transition();
+
+	&:hover{
+		@include background(linear-gradient(top, #3a77dc, darken(#3a77dc, 5)));
+		color: #fff;
+	}
 }
 
 ul.intervenants{
