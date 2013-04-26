@@ -14,9 +14,19 @@ body{
 	&:hover{
 		opacity: 1;
 	}
+	
+	@include width-below(600px){
+		top: 0;
+		left: 0;
+		right: 0;
+	}
 }
 #mainnav ul{
 	list-style: none;
+	@include width-below(600px){
+		display: table;
+		width: 100%;
+	}
 }
 #mainnav li{
 	display: inline;
@@ -24,6 +34,9 @@ body{
 
 	&:last-child{
 		border-right: none;
+	}
+	@include width-below(600px){
+		display: table-cell;
 	}
 }
 #mainnav a{
@@ -39,6 +52,9 @@ body{
 
 	&:hover{
 		background: darken($alternate-color, 8);
+	}
+@include width-below(600px){
+		display: block;
 	}
 }
 
@@ -60,6 +76,10 @@ div.cover.campus{
 section{
 	width: 600px;
 	margin: auto;
+	
+	@include width-below(600px){
+		width: 100%;
+	}
 }
 
 #header{
@@ -91,6 +111,10 @@ div.organisateurs{
 	left: -230px;
 	margin-top: -395px;
 	top: 395px;
+	
+	@include width-below(1100px){
+		display: none;
+	}
 }
 div.organisateurs .organisateur{
 	display: block;
@@ -201,6 +225,9 @@ ul.jury{
 
 ul.intervenants{
 	list-style: none;
+	@include width-below(860px){
+		display: none;
+	}
 }
 ul.intervenants li{
 	margin-bottom: 30px;
