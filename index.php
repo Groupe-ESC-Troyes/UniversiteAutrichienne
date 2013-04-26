@@ -121,7 +121,7 @@
 			Vendredi 4 Octobre
 		</h3>
 		<table class="programme">
-			<tr>
+			<tr class="session-0">
 				<td>
 					20h — 23h
 				</td>
@@ -141,17 +141,17 @@
 			Samedi 5 Octobre
 		</h3>
 		<table class="programme">
-			<tr>
+			<tr class="session-1">
 				<td>
 					8h30
 				</td>
 				<td>
 					<p>
-						Accueil des étudiants à l’ESC Troyes, 217 rue Pierre Brossolette
+						Accueil à l’ESC Troyes, 217 rue Pierre Brossolette
 					</p>
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-2">
 				<td>
 					9h — 10h
 				</td>
@@ -160,7 +160,7 @@
 					<strong><a href="#eabrasu">Professeur Marian Eabrasu</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-2">
 				<td>
 					9h — 10h
 				</td>
@@ -169,7 +169,7 @@
 					<strong><a href="#fillieule">Professeur Renaud Fillieule</a></strong> (Université Lille 1)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-3">
 				<td>
 					10h30 — 11h30
 				</td>
@@ -178,7 +178,7 @@
 					<strong><a href="#eabrasu">Professeur Marian Eabrasu</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-3">
 				<td>
 					10h30 — 11h30
 				</td>
@@ -187,7 +187,7 @@
 					<strong><a href="#facchini">Professeur François Facchini</a></strong> (Université Paris XI)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-4">
 				<td>
 					11h45 — 12h45
 				</td>
@@ -196,7 +196,7 @@
 					<strong><a href="#janson">Professeur Nathalie Janson</a></strong> (Rouen Business School)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-4">
 				<td>
 					11h45 — 12h45
 				</td>
@@ -205,7 +205,7 @@
 					<strong><a href="#gertchev">Dr. Nikolay Gertchev</a></strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-5">
 				<td>
 					13h — 14h
 				</td>
@@ -215,7 +215,7 @@
 					</p>
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-6">
 				<td>
 					14h — 15h
 				</td>
@@ -224,7 +224,7 @@
 					<strong><a href="#gertchev">Dr. Nikolay Gertchev</a></strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières) 
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-6">
 				<td>
 					14h — 15h
 				</td>
@@ -233,7 +233,7 @@
 					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-7">
 				<td>
 					15h30 — 17h
 				</td>
@@ -242,7 +242,7 @@
 					<strong><a href="#hulsmann">Professeur Guido Hülsmann</a></strong> (Université d’Angers)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-8">
 				<td>
 					19h — 20h
 				</td>
@@ -261,7 +261,7 @@
 			Dimanche 6 Octobre
 		</h3>
 		<table class="programme">
-			<tr>
+			<tr class="session-9">
 				<td>
 					9h
 				</td>
@@ -269,7 +269,7 @@
 					Accueil à l’ESC Troyes
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-10">
 				<td>
 					9h15 — 10h15
 				</td>
@@ -278,7 +278,7 @@
 					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-11">
 				<td>
 					10h45 — 12h15
 				</td>
@@ -287,7 +287,7 @@
 					<strong><a href="schneider">Henrique Schneider</a></strong>, économiste en chef de l’Union suisse des arts et métie
 				</td>
 			</tr>
-			<tr>
+			<tr class="session-12">
 				<td>
 					12h30
 				</td>

@@ -145,6 +145,33 @@ table.programme{
 table.programme tr:nth-child(odd){
 	background: #e3e3e3;
 }
+table.programme tr[class^="session-"]{
+	border-style: solid;
+	border-left-width: 5px;
+}
+table.programme .session-1,
+table.programme .session-6,
+table.programme .session-11{
+	border-color: #3b5998;
+}
+table.programme .session-2,
+table.programme .session-7,
+table.programme .session-12{
+	border-color: #efb311;
+}
+table.programme .session-3,
+table.programme .session-8,
+table.programme .session-0{
+	border-color: #6fd018;
+}
+table.programme .session-4,
+table.programme .session-9{
+	border-color: #d916e5;
+}
+table.programme .session-5,
+table.programme .session-10{
+	border-color: #cc1746;
+}
 table.programme td{
 	line-height: 1.1;
 	padding: 24px 10px 24px 0;
