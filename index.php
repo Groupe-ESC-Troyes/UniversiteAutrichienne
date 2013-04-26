@@ -355,7 +355,8 @@
 		</header>
 		
 		<p>
-			Formulaire
+			Merci de remplir le formulaire ci-dessous pour confirmer votre inscription à la 
+			3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne.
 		</p>
 		<form id="form">
 			<label>
