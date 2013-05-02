@@ -123,7 +123,7 @@
 		<table class="programme">
 			<tr class="session-0 odd">
 				<td>
-					20h — 23h
+					20h – 23h
 				</td>
 				<td>
 					<p>
@@ -153,7 +153,7 @@
 			</tr>
 			<tr class="session-2">
 				<td>
-					9h — 10h
+					9h – 10h
 				</td>
 				<td>
 					<em>La spécificité de l’Ecole Autrichienne</em>
@@ -162,7 +162,7 @@
 			</tr>
 			<tr class="session-2">
 				<td>
-					9h — 10h
+					9h – 10h
 				</td>
 				<td>
 					<em>Les régimes monétaires et leur évaluation par les Autrichiens</em>
@@ -171,7 +171,7 @@
 			</tr>
 			<tr class="session-3 odd">
 				<td>
-					10h30 — 11h30
+					10h30 – 11h30
 				</td>
 				<td>
 					<em>Qu’est-ce que la monnaie ?</em>
@@ -180,7 +180,7 @@
 			</tr>
 			<tr class="session-3 odd">
 				<td>
-					10h30 — 11h30
+					10h30 – 11h30
 				</td>
 				<td>
 					<em>Retour sur les causes de la crise et les politiques mises en œuvre</em>
@@ -189,7 +189,7 @@
 			</tr>
 			<tr class="session-4">
 				<td>
-					11h45 — 12h45
+					11h45 – 12h45
 				</td>
 				<td>
 					<em>Qu’est-ce qu’une banque ?</em>
@@ -198,7 +198,7 @@
 			</tr>
 			<tr class="session-4">
 				<td>
-					11h45 — 12h45
+					11h45 – 12h45
 				</td>
 				<td>
 					<em>Réforme monétaire : par où commencer ?</em>
@@ -207,7 +207,7 @@
 			</tr>
 			<tr class="session-5 odd">
 				<td>
-					13h — 14h
+					13h – 14h
 				</td>
 				<td>
 					<p>
@@ -217,7 +217,7 @@
 			</tr>
 			<tr class="session-6">
 				<td>
-					14h — 15h
+					14h – 15h
 				</td>
 				<td>
 					<em>Pourquoi y a-t-il des cycles économiques ?</em>
@@ -226,7 +226,7 @@
 			</tr>
 			<tr class="session-6">
 				<td>
-					14h — 15h
+					14h – 15h
 				</td>
 				<td>
 					<em>Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?</em>
@@ -235,7 +235,7 @@
 			</tr>
 			<tr class="session-7 odd">
 				<td>
-					15h30 — 17h
+					15h30 – 17h
 				</td>
 				<td>
 					<em>Epargne, déflation et croissance </em>
@@ -244,7 +244,7 @@
 			</tr>
 			<tr class="session-8">
 				<td>
-					19h — 20h
+					19h – 20h
 				</td>
 				<td>
 					<p>
@@ -271,7 +271,7 @@
 			</tr>
 			<tr class="session-10">
 				<td>
-					9h15 — 10h15
+					9h15 – 10h15
 				</td>
 				<td>
 					<em>Les bulles spéculatives dans les cycles économiques</em>
@@ -280,7 +280,7 @@
 			</tr>
 			<tr class="session-11 odd">
 				<td>
-					10h45 — 12h15
+					10h45 – 12h15
 				</td>
 				<td>
 					<em>Réforme bancaire en Chine : État des lieux et perspectives</em>
@@ -416,6 +416,9 @@
 					<input type="email" name="email" />
 				</label>
 				<input type="submit" value="Enregistrer" />
+				
+				
+				
 			</form>
 		</div>
 	</section>
