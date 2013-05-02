@@ -357,49 +357,67 @@
 			</h2>
 		</header>
 		
-		<p>
-			Merci de remplir le formulaire ci-dessous pour confirmer votre inscription à la 
-			3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne.
-		</p>
-		<form id="form">
-			<label>
-				Votre nom :
-				<input type="text" name="nom" />
+		<div id="identite" class="clearfix">
+			<input type="radio" id="candidats" name="identite" />
+			<label class="candidats" for="candidats">
+				Candidats
 			</label>
-			<label>
-				Votre prénom :
-				<input type="text" name="prenom" />
+			
+			<input type="radio" id="invites" name="identite" />
+			<label class="invite"  for="invites">
+				Invités
 			</label>
-			<label>
-				Nom de votre entreprise ou établissement :
-				<input type="text" name="entreprise" />
-			</label>
-			<label>
-				Fonction ou niveau d'études :
-				<input type="text" name="fonction" />
-			</label>
-			<label>
-				Votre adresse :
-				<input type="text" name="adresse" />
-			</label>
-			<label>
-				Code postal :
-				<input type="text" name="cp" />
-			</label>
-			<label>
-				Ville :
-				<input type="text" name="ville" />
-			</label>
-			<label>
-				Numéro de téléphone mobile :
-				<input type="text" name="mobile" />
-			</label>
-			<label>
-				Adresse email :
-				<input type="email" name="email" />
-			</label>
-			<input type="submit" value="Enregistrer" />
-		</form>
+		</div>
+		
+		<div id="formCandidats">
+			texte poru cnaidats
+		</div>
+		
+		<div id="form">
+			<p>
+				Merci de remplir le formulaire ci-dessous pour confirmer votre inscription à la 
+				3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne.
+			</p>
+			<form>
+				<label>
+					Votre nom :
+					<input type="text" name="nom" />
+				</label>
+				<label>
+					Votre prénom :
+					<input type="text" name="prenom" />
+				</label>
+				<label>
+					Nom de votre entreprise ou établissement :
+					<input type="text" name="entreprise" />
+				</label>
+				<label>
+					Fonction ou niveau d'études :
+					<input type="text" name="fonction" />
+				</label>
+				<label>
+					Votre adresse :
+					<input type="text" name="adresse" />
+				</label>
+				<label>
+					Code postal :
+					<input type="text" name="cp" />
+				</label>
+				<label>
+					Ville :
+					<input type="text" name="ville" />
+				</label>
+				<label>
+					Numéro de téléphone mobile :
+					<input type="text" name="mobile" />
+				</label>
+				<label>
+					Adresse email :
+					<input type="email" name="email" />
+				</label>
+				<input type="submit" value="Enregistrer" />
+			</form>
+		</div>
 	</section>
 	
 	<section id="intervenants">
@@ -471,6 +489,11 @@
 			</li>
 		</ul>
 	</section>
+	
+	<footer>
+		<a href="http://thenounproject.com/noun/teacher/#icon-No14888" target="_blank">Teacher</a> designed by <a href="http://thenounproject.com/bravo" target="_blank">Juan Pablo Bravo</a> from The Noun Project
+		<a href="http://thenounproject.com/noun/mail/#icon-No1605" target="_blank">Mail</a> designed by <a href="http://thenounproject.com/ahamzawy" target="_blank">Ahmed Hamzawy</a> from The Noun Project
+	</footer>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\/script>')</script>

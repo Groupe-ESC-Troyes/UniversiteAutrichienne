@@ -221,6 +221,41 @@ ul.jury{
 	list-style: outside;
 }
 
+
+#identite label{
+	display: block;
+	float: left;
+	width: 275px;
+	padding: 8px;
+	text-align: center;
+	background: #e9e9e9;
+	@include rem-sizing('font-size', 24);
+}
+#identite .candidats{
+	margin-right: 50px;
+}
+#identite input[type="radio"]:checked + label{
+	background: darken(#e9e9e9, 8);
+}
+#identite input{
+	display: none;
+}
+#identite .candidats:before{
+	content: url('../img/candidat.png');
+	display: block;
+	text-align: center;
+}
+#identite .invite:before{
+	content: url('../img/invitation.png');
+	display: block;
+	text-align: center;
+}
+
+
+#form,
+#formCandidats{
+	display: none;
+}
 #form label{
 	display: block;
 	margin: 24px 0;
