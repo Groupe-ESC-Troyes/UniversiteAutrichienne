@@ -289,12 +289,30 @@ ul.jury{
 ol.participations{
 	list-style: none;
 }
-ol.participations div.input{
-	display: inline-block;
-	width: 30px;
+#form ol.participations label{
+	display: table;
+	width: 100%;
+	margin: 0;
+	padding: 12px 0;
+	
+	&.odd{
+		background: #e3e3e3;
+	}
+}
+ol.participations .input{
+	display: table-cell;
+	text-align: left;
+	width: 25px;
 }
 ol.participations .date{
+	display: table-cell;
 	font-style: italic;
+	text-align: left;
+	width: 180px;
+}
+ol.participations .activite{
+	display: table-cell;
+	text-align: left;
 }
 
 ul.intervenants{

@@ -421,14 +421,16 @@
 				</h3>
 				<ol class="participations">
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="checkbox" />
 							</div>
 							<span class="date">
 								04/10, 20h–23h
 							</span>
-							Diner au restaurant l'Illustré
+							<span class="activite">
+								Diner au restaurant l'Illustré
+							</span>
 						</label>
 					</li>
 					<li>
@@ -439,29 +441,35 @@
 							<span class="date">
 								05/10, 8h30
 							</span>
-							Accueil à l’ESC Troyes
+							<span class="activite">
+								Accueil à l’ESC Troyes
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
 							</span>
-							La spécificité de l’Ecole Autrichienne
+							<span class="activite">
+								La spécificité de l’Ecole Autrichienne
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
 							</span>
-							Les régimes monétaires et leur évaluation par les Autrichiens
+							<span class="activite">
+								Les régimes monétaires et leur évaluation par les Autrichiens
+							</span>
 						</label>
 					</li>
 					<li>
@@ -472,7 +480,9 @@
 							<span class="date">
 								05/10, 10h30–11h30
 							</span>
-							Qu’est-ce que la monnaie ?
+							<span class="activite">
+								Qu’est-ce que la monnaie ?
+							</span>
 						</label>
 					</li>
 					<li>
@@ -483,29 +493,35 @@
 							<span class="date">
 								05/10, 10h30–11h30
 							</span>
-							Retour sur les causes de la crise et les politiques mises en œuvre
+							<span class="activite">
+								Retour sur les causes de la crise et les politiques mises en œuvre
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
 							</span>
-							Qu’est-ce qu’une banque ?
+							<span class="activite">
+								Qu’est-ce qu’une banque ?
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
 							</span>
-							Réforme monétaire : par où commencer ?
+							<span class="activite">
+								Réforme monétaire : par où commencer ?
+							</span>
 						</label>
 					</li>
 					<li>
@@ -516,29 +532,35 @@
 							<span class="date">
 								05/10, 13h–14h
 							</span>
-							Déjeuner à l'ESC Troyes 
+							<span class="activite">
+								Déjeuner à l'ESC Troyes
+							</span> 
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
 							</span>
-							Pourquoi y a-t-il des cycles économiques ?
+							<span class="activite">
+								Pourquoi y a-t-il des cycles économiques ?
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="radio" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
 							</span>
-							Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?
+							<span class="activite">
+								Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?
+							</span>
 						</label>
 					</li>
 					<li>
@@ -549,18 +571,22 @@
 							<span class="date">
 								05/10, 15h30–17h
 							</span>
-							Epargne, déflation et croissance 
+							<span class="activite">
+								Epargne, déflation et croissance 
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="checkbox" />
 							</div>
 							<span class="date">
 								05/10, 19h–20h
 							</span>
-							Dîner et soirée au restaurant-bar Rive-Gauche
+							<span class="activite">
+								Dîner et soirée au restaurant-bar Rive-Gauche
+							</span>
 						</label>
 					</li>
 					<li>
@@ -571,18 +597,22 @@
 							<span class="date">
 								06/10, 9h
 							</span>
-							Accueil à l’ESC Troyes 
+							<span class="activite">
+								Accueil à l’ESC Troyes 
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="checkbox" />
 							</div>
 							<span class="date">
 								06/10, 9h15–10h15
 							</span>
-							Les bulles spéculatives dans les cycles économiques
+							<span class="activite">
+								Les bulles spéculatives dans les cycles économiques
+							</span>
 						</label>
 					</li>
 					<li>
@@ -593,18 +623,22 @@
 							<span class="date">
 								06/10, 10h45–12h15
 							</span>
-							Réforme bancaire en Chine : État des lieux et perspectives
+							<span class="activite">
+								Réforme bancaire en Chine : État des lieux et perspectives
+							</span>
 						</label>
 					</li>
 					<li>
-						<label>
+						<label class="odd">
 							<div class="input">
 								<input type="checkbox" />
 							</div>
 							<span class="date">
 								06/10, 12h30
 							</span>
-							Déjeuner à l’ESC Troyes et départ 
+							<span class="activite">
+								Déjeuner à l’ESC Troyes et départ 
+							</span>
 						</label>
 					</li>
 				</ol>
