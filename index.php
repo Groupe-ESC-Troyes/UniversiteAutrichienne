@@ -451,7 +451,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="diner-4-10" />
 							</div>
 							<span class="date">
 								04/10, 20h–23h
@@ -464,7 +464,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="accueil-5-10" />
 							</div>
 							<span class="date">
 								05/10, 8h30
@@ -477,7 +477,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-1" value="La spécificité de l’Ecole Autrichienne" />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
@@ -490,7 +490,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-1" value="Les régimes monétaires et leur évaluation par les Autrichiens" />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
@@ -503,7 +503,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-2" value="Qu’est-ce que la monnaie ?" />
 							</div>
 							<span class="date">
 								05/10, 10h30–11h30
@@ -516,7 +516,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-2" value="Retour sur les causes de la crise et les politiques mises en œuvre" />
 							</div>
 							<span class="date">
 								05/10, 10h30–11h30
@@ -529,7 +529,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-3" value="Qu’est-ce qu’une banque ?" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
@@ -542,7 +542,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-3" value="Réforme monétaire : par où commencer ?" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
@@ -555,7 +555,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="dejeuner-5-10" />
 							</div>
 							<span class="date">
 								05/10, 13h–14h
@@ -568,7 +568,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-4" value="Pourquoi y a-t-il des cycles économiques ?" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
@@ -581,7 +581,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" />
+								<input type="radio" name="session-4" value="Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
@@ -594,7 +594,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="pleniere-1" />
 							</div>
 							<span class="date">
 								05/10, 15h30–17h
@@ -607,7 +607,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="diner-5-10" />
 							</div>
 							<span class="date">
 								05/10, 19h–20h
@@ -620,7 +620,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="accueil-6-10" />
 							</div>
 							<span class="date">
 								06/10, 9h
@@ -633,7 +633,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="pleniere-2" />
 							</div>
 							<span class="date">
 								06/10, 9h15–10h15
@@ -646,7 +646,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="pleniere-3" />
 							</div>
 							<span class="date">
 								06/10, 10h45–12h15
@@ -659,7 +659,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="checkbox" />
+								<input type="checkbox" name="dejeuner-6-10" />
 							</div>
 							<span class="date">
 								06/10, 12h30
