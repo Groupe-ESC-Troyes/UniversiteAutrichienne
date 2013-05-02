@@ -415,9 +415,201 @@
 					Adresse email :
 					<input type="email" name="email" />
 				</label>
+				
+				<h3>
+					Vos présences
+				</h3>
+				<ol class="participations">
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								04/10, 20h–23h
+							</span>
+							Diner au restaurant l'Illustré
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								05/10, 8h30
+							</span>
+							Accueil à l’ESC Troyes
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 9h–10h
+							</span>
+							La spécificité de l’Ecole Autrichienne
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 9h–10h
+							</span>
+							Les régimes monétaires et leur évaluation par les Autrichiens
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 10h30–11h30
+							</span>
+							Qu’est-ce que la monnaie ?
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 10h30–11h30
+							</span>
+							Retour sur les causes de la crise et les politiques mises en œuvre
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 11h45–12h45
+							</span>
+							Qu’est-ce qu’une banque ?
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 11h45–12h45
+							</span>
+							Réforme monétaire : par où commencer ?
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								05/10, 13h–14h
+							</span>
+							Déjeuner à l'ESC Troyes 
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 14h–15h
+							</span>
+							Pourquoi y a-t-il des cycles économiques ?
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="radio" />
+							</div>
+							<span class="date">
+								05/10, 14h–15h
+							</span>
+							Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								05/10, 15h30–17h
+							</span>
+							Epargne, déflation et croissance 
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								05/10, 19h–20h
+							</span>
+							Dîner et soirée au restaurant-bar Rive-Gauche
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								06/10, 9h
+							</span>
+							Accueil à l’ESC Troyes 
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								06/10, 9h15–10h15
+							</span>
+							Les bulles spéculatives dans les cycles économiques
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								06/10, 10h45–12h15
+							</span>
+							Réforme bancaire en Chine : État des lieux et perspectives
+						</label>
+					</li>
+					<li>
+						<label>
+							<div class="input">
+								<input type="checkbox" />
+							</div>
+							<span class="date">
+								06/10, 12h30
+							</span>
+							Déjeuner à l’ESC Troyes et départ 
+						</label>
+					</li>
+				</ol>
+				
 				<input type="submit" value="Enregistrer" />
-				
-				
 				
 			</form>
 		</div>

@@ -286,6 +286,16 @@ ul.jury{
 		cursor: no-drop;
 	}
 }
+ol.participations{
+	list-style: none;
+}
+ol.participations div.input{
+	display: inline-block;
+	width: 30px;
+}
+ol.participations .date{
+	font-style: italic;
+}
 
 ul.intervenants{
 	list-style: none;
