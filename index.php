@@ -370,13 +370,41 @@
 		</div>
 		
 		<div id="formCandidats">
-			Texte pour candidats
+			<p>
+				40 places pour participer à l’événement seront pourvues au fil de l’eau.<br />
+				Les candidatures sont à envoyer par courriel à Cécile Philippe
+				(<a href="mailto:cecile@institutmolinari.org">cecile@institutmolinari.org</a>). 
+				Elles doivent contenir un CV 
+				accompagné d’une brève description des motivations du candidat 
+				pour participer à cet événement.
+			</p>
+			<p>
+				Les candidats acceptés seront invités à participer aux frais 
+				d’organisation à hauteur de 45 euros. Cette contribution forfaitaire 
+				donne accès à la conférence et inclut deux nuits de logement dans 
+				un hôtel Etap et quatre repas. Les frais de transport restent à la 
+				charge de chaque participant.<br />
+				Pour les étudiants de l'école n'ayant pas besoin de logement, les
+				frais de participations sont réduits à 20€.
+			</p>
+			<p>
+				Grâce à la générosité du site Internet 24hGold, certains étudiants 
+				rencontrant des difficultés financières pourront être entièrement 
+				exonérés des frais de participation. Les bourses doivent être 
+				sollicitées au moment de la candidature en précisant la nature de 
+				ces difficultés.
+			</p>
 		</div>
 		
 		<div id="form">
 			<p>
-				Merci de remplir le formulaire ci-dessous pour confirmer votre inscription à la 
-				3<sup>ème</sup> édition de l'Université d'Automne en Économie Autrichienne.
+				Nous vous invitons à participer à ce colloque. Vous pouvez vous inscrire sur 
+				l’ensemble de l’événement ou choisir les plénières ou conférences auxquelles 
+				vous souhaitez participer ou venir partager un repas pour échanger sur le sujet.
+			</p>
+			<p>
+				Pour cela, nous vous remercions de nous indiquer votre présence sur le déroulé 
+				ci-dessous.
 			</p>
 			<form>
 				<label>
