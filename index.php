@@ -121,7 +121,7 @@
 			Vendredi 4 Octobre
 		</h3>
 		<table class="programme">
-			<tr class="session-0">
+			<tr class="session-0 odd">
 				<td>
 					20h — 23h
 				</td>
@@ -141,7 +141,7 @@
 			Samedi 5 Octobre
 		</h3>
 		<table class="programme">
-			<tr class="session-1">
+			<tr class="session-1 odd">
 				<td>
 					8h30
 				</td>
@@ -169,7 +169,7 @@
 					<strong><a href="#fillieule">Professeur Renaud Fillieule</a></strong> (Université Lille 1)
 				</td>
 			</tr>
-			<tr class="session-3">
+			<tr class="session-3 odd">
 				<td>
 					10h30 — 11h30
 				</td>
@@ -178,7 +178,7 @@
 					<strong><a href="#eabrasu">Professeur Marian Eabrasu</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr class="session-3">
+			<tr class="session-3 odd">
 				<td>
 					10h30 — 11h30
 				</td>
@@ -205,7 +205,7 @@
 					<strong><a href="#gertchev">Dr. Nikolay Gertchev</a></strong> (Economiste à la Commission Européenne, Direction générale des affaires économiques et financières)
 				</td>
 			</tr>
-			<tr class="session-5">
+			<tr class="session-5 odd">
 				<td>
 					13h — 14h
 				</td>
@@ -233,7 +233,7 @@
 					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr class="session-7">
+			<tr class="session-7 odd">
 				<td>
 					15h30 — 17h
 				</td>
@@ -261,7 +261,7 @@
 			Dimanche 6 Octobre
 		</h3>
 		<table class="programme">
-			<tr class="session-9">
+			<tr class="session-9 odd">
 				<td>
 					9h
 				</td>
@@ -278,7 +278,7 @@
 					<strong><a href="#gimenez">Professeur Gabriel Giménez-Roche</a></strong> (Groupe ESC Troyes en Champagne)
 				</td>
 			</tr>
-			<tr class="session-11">
+			<tr class="session-11 odd">
 				<td>
 					10h45 — 12h15
 				</td>
@@ -370,7 +370,7 @@
 		</div>
 		
 		<div id="formCandidats">
-			texte poru cnaidats
+			Texte pour candidats
 		</div>
 		
 		<div id="form">

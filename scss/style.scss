@@ -142,7 +142,7 @@ div.organisateurs .gold{
 table.programme{
 	margin-bottom: 30px;
 }
-table.programme tr:nth-child(odd){
+table.programme tr.odd{
 	background: #e3e3e3;
 }
 table.programme tr[class^="session-"]{
