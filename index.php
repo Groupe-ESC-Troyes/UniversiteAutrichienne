@@ -147,7 +147,7 @@
 				</td>
 				<td>
 					<p>
-						Accueil à l’ESC Troyes, 217 rue Pierre Brossolette
+						Accueil à l’ESC Troyes, 217 avenue Pierre Brossolette
 					</p>
 				</td>
 			</tr>
@@ -248,7 +248,7 @@
 				</td>
 				<td>
 					<p>
-						Dîner et soirée au restaurant-bar Rive-Gauche, 59 rue de la cité
+						Dîner et soirée au restaurant-bar Rive-Gauche, 59 rue de la Cité
 					</p>
 					<p>
 						Remise du prix du concours du meilleur article sur le thème « Le courage de la réforme »
@@ -284,7 +284,7 @@
 				</td>
 				<td>
 					<em>Réforme bancaire en Chine : État des lieux et perspectives</em>
-					<strong><a href="schneider">Henrique Schneider</a></strong>, économiste en chef de l’Union suisse des arts et métie
+					<strong><a href="schneider">Henrique Schneider</a></strong>, économiste en chef de l’Union suisse des arts et métiers
 				</td>
 			</tr>
 			<tr class="session-12">
