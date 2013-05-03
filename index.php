@@ -251,7 +251,7 @@
 						Dîner et soirée au restaurant-bar Rive-Gauche, 59 rue de la cité
 					</p>
 					<p>
-						Remise du prix du concours du meilleur article sur le thème « les métaux précieux »
+						Remise du prix du concours du meilleur article sur le thème « Le courage de la réforme »
 					</p>
 				</td>
 			</tr>
