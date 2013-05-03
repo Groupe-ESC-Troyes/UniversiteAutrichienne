@@ -406,7 +406,7 @@
 				Pour cela, nous vous remercions de nous indiquer votre présence sur le déroulé 
 				ci-dessous.
 			</p>
-			<form>
+			<form method="post" action="sender.php" id="reservation">
 				<label>
 					Votre nom :
 					<input type="text" name="nom" />
@@ -672,7 +672,6 @@
 				</ol>
 				
 				<input type="submit" value="Enregistrer" />
-				
 			</form>
 		</div>
 	</section>

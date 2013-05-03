@@ -1,11 +1,4 @@
 $(function(){
-	/*var $menu = $('#menu');
-  
-	$menu.find('a').click(function(){
-		$menulink.toggleClass('active');
-		$menu.toggleClass('active');
-	});*/
-	
 	$.localScroll({hash: true});
 	$('body').scrollspy({target: '#mainnav', offset: 100});
 	
@@ -29,5 +22,24 @@ $(function(){
 			$('#formCandidats').slideUp();
 			$('#form').slideDown();
 		}
+	});
+	
+	$('#reservation').submit(function(event){
+		event.preventDefault();
+		var data = $(this).serialize();
+		
+		$(this).find(':submit').attr('disabled', 'disabled').val('Patientez...');
+		
+		$.post('sender.php', data).success(function(response){
+			if (response.error == 1){
+				alert('Erreur inconnue');
+			}
+			else if (response.error == 2){
+				alert('remplir tous les champs');
+			}
+			else if (response.error == 0){
+				alert('allright');
+			}
+		});
 	});
 });
