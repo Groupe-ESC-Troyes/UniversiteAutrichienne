@@ -406,42 +406,45 @@
 				Pour cela, nous vous remercions de nous indiquer votre présence sur le déroulé 
 				ci-dessous.
 			</p>
+			<p>
+				Tous les champs sont obligatoires.
+			</p>
 			<form method="post" action="sender.php" id="reservation">
 				<label>
 					Votre nom :
-					<input type="text" name="nom" />
+					<input type="text" name="nom" required />
 				</label>
 				<label>
 					Votre prénom :
-					<input type="text" name="prenom" />
+					<input type="text" name="prenom" required />
 				</label>
 				<label>
 					Nom de votre entreprise ou établissement :
-					<input type="text" name="entreprise" />
+					<input type="text" name="entreprise" required />
 				</label>
 				<label>
 					Fonction ou niveau d'études :
-					<input type="text" name="fonction" />
+					<input type="text" name="fonction" required />
 				</label>
 				<label>
 					Votre adresse :
-					<input type="text" name="adresse" />
+					<input type="text" name="adresse" required />
 				</label>
 				<label>
 					Code postal :
-					<input type="text" name="cp" />
+					<input type="text" name="cp" required />
 				</label>
 				<label>
 					Ville :
-					<input type="text" name="ville" />
+					<input type="text" name="ville" required />
 				</label>
 				<label>
 					Numéro de téléphone mobile :
-					<input type="text" name="mobile" />
+					<input type="text" name="mobile" required />
 				</label>
 				<label>
 					Adresse email :
-					<input type="email" name="email" />
+					<input type="email" name="email" required />
 				</label>
 				
 				<h3>
@@ -477,7 +480,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-1" value="La spécificité de l’Ecole Autrichienne" />
+								<input type="radio" name="session-1" value="La spécificité de l’Ecole Autrichienne" required />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
@@ -490,7 +493,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-1" value="Les régimes monétaires et leur évaluation par les Autrichiens" />
+								<input type="radio" name="session-1" value="Les régimes monétaires et leur évaluation par les Autrichiens" required />
 							</div>
 							<span class="date">
 								05/10, 9h–10h
@@ -503,7 +506,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="radio" name="session-2" value="Qu’est-ce que la monnaie ?" />
+								<input type="radio" name="session-2" required value="Qu’est-ce que la monnaie ?" />
 							</div>
 							<span class="date">
 								05/10, 10h30–11h30
@@ -516,7 +519,7 @@
 					<li>
 						<label>
 							<div class="input">
-								<input type="radio" name="session-2" value="Retour sur les causes de la crise et les politiques mises en œuvre" />
+								<input type="radio" name="session-2" required value="Retour sur les causes de la crise et les politiques mises en œuvre" />
 							</div>
 							<span class="date">
 								05/10, 10h30–11h30
@@ -529,7 +532,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-3" value="Qu’est-ce qu’une banque ?" />
+								<input type="radio" name="session-3" required value="Qu’est-ce qu’une banque ?" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
@@ -542,7 +545,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-3" value="Réforme monétaire : par où commencer ?" />
+								<input type="radio" name="session-3" required value="Réforme monétaire : par où commencer ?" />
 							</div>
 							<span class="date">
 								05/10, 11h45–12h45
@@ -568,7 +571,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-4" value="Pourquoi y a-t-il des cycles économiques ?" />
+								<input type="radio" name="session-4" required value="Pourquoi y a-t-il des cycles économiques ?" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
@@ -581,7 +584,7 @@
 					<li>
 						<label class="odd">
 							<div class="input">
-								<input type="radio" name="session-4" value="Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?" />
+								<input type="radio" name="session-4" required value="Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?" />
 							</div>
 							<span class="date">
 								05/10, 14h–15h
