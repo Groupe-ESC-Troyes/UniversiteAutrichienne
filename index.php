@@ -504,6 +504,19 @@
 						</label>
 					</li>
 					<li>
+						<label class="odd">
+							<div class="input">
+								<input type="radio" name="session-1" value="0" required />
+							</div>
+							<span class="date">
+								05/10, 9h–10h
+							</span>
+							<span class="activite">
+								Ne participe pas
+							</span>
+						</label>
+					</li>
+					<li>
 						<label>
 							<div class="input">
 								<input type="radio" name="session-2" required value="Qu’est-ce que la monnaie ?" />
@@ -530,6 +543,19 @@
 						</label>
 					</li>
 					<li>
+						<label>
+							<div class="input">
+								<input type="radio" name="session-2" required value="0" />
+							</div>
+							<span class="date">
+								05/10, 10h30–11h30
+							</span>
+							<span class="activite">
+								Ne participe pas
+							</span>
+						</label>
+					</li>
+					<li>
 						<label class="odd">
 							<div class="input">
 								<input type="radio" name="session-3" required value="Qu’est-ce qu’une banque ?" />
@@ -552,6 +578,19 @@
 							</span>
 							<span class="activite">
 								Réforme monétaire : par où commencer ?
+							</span>
+						</label>
+					</li>
+					<li>
+						<label class="odd">
+							<div class="input">
+								<input type="radio" name="session-3" required value="0" />
+							</div>
+							<span class="date">
+								05/10, 11h45–12h45
+							</span>
+							<span class="activite">
+								Ne participe pas
 							</span>
 						</label>
 					</li>
@@ -591,6 +630,19 @@
 							</span>
 							<span class="activite">
 								Réforme du marché du travail et fiscalité: et s'il fallait commencer par là ?
+							</span>
+						</label>
+					</li>
+					<li>
+						<label class="odd">
+							<div class="input">
+								<input type="radio" name="session-4" required value="0" />
+							</div>
+							<span class="date">
+								05/10, 14h–15h
+							</span>
+							<span class="activite">
+								Ne participe pas
 							</span>
 						</label>
 					</li>
