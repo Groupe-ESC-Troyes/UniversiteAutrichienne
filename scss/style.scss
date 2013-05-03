@@ -256,7 +256,8 @@ ul.jury{
 
 
 #form,
-#formCandidats{
+#formCandidats,
+#formSuccess{
 	display: none;
 }
 #form label{
@@ -290,6 +291,14 @@ ul.jury{
 		cursor: no-drop;
 	}
 }
+#formSuccess{
+	background: #1ea61b;
+	color: #fff;
+	padding: 10px;
+	@include rem-sizing('font-size', 16);
+	text-align: center;
+}
+
 ol.participations{
 	list-style: none;
 }

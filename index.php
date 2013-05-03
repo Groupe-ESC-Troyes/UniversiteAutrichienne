@@ -729,6 +729,10 @@
 				<input type="submit" value="Enregistrer" />
 			</form>
 		</div>
+		
+		<div id="formSuccess">
+			Merci, votre inscription à bien été prise en compte.
+		</div>
 	</section>
 	
 	<section id="intervenants">

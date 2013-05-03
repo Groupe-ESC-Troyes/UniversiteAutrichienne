@@ -32,13 +32,13 @@ $(function(){
 		
 		$.post('sender.php', data).success(function(response){
 			if (response.error == 1){
-				alert('Erreur inconnue');
+				alert('Erreur inconnue, merci de réessayer plus tard');
 			}
 			else if (response.error == 2){
-				alert('remplir tous les champs');
+				alert('Merci de remplir tous les champs');
 			}
 			else if (response.error == 0){
-				alert('allright');
+				$('#formSuccess').slideDown();
 			}
 		});
 	});
